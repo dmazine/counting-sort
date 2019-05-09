@@ -1,0 +1,14 @@
+{
+  "name": "counting-sort",
+  "version": "1.0.0",
+  "description": "Counting Sort Algorithm implementation using java script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Rani Mazine",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
